@@ -13,10 +13,9 @@ Selamat datang di repository BayarBareng, untuk memulai development kalian membu
 ## Library & Framework Yang Digunakan
 
 - [Bootstrap 4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-- [React-Bootstrap](https://react-bootstrap.github.io/)
 - SASS
-- [GatsbyJS](https://www.gatsbyjs.com/docs/)
-- [NetlifyCMS](https://www.netlifycms.org/docs/intro/)
+- [Next.JS](hhttps://nextjs.org/docs/getting-started)
+- [ExpressJS](https://www.netlifycms.org/docs/intro/) Untuk Handle Back-End
 
 ## Instalasi Paket Module
 
@@ -30,6 +29,6 @@ tekan enter lalu tunggu hingga instalasi selesai. Module-module yang terinstall 
 
 Untuk menjalakan testing secara lokal, ketikan perintah :
 
-> gatsby develop
+> next start
 
 maka nantinya akan langsung redirect ke browser atau diberikan link localhost untuk mengakses running project secara lokal pada terminal atau bash tempat kalian menjalankan development.
