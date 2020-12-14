@@ -14,7 +14,7 @@ Selamat datang di repository BayarBareng, untuk memulai development kalian membu
 
 - [Bootstrap 4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 - SASS
-- [NextJS](hhttps://nextjs.org/docs/getting-started)
+- [NextJS](https://nextjs.org/docs/getting-started)
 - [ExpressJS](https://www.netlifycms.org/docs/intro/) Untuk Handle Back-End
 
 ## Instalasi Paket Module
