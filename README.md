@@ -29,6 +29,6 @@ tekan enter lalu tunggu hingga instalasi selesai. Module-module yang terinstall 
 
 Untuk menjalakan testing secara lokal, ketikan perintah :
 
-> next start
+> npm run dev
 
 maka nantinya akan langsung redirect ke browser atau diberikan link localhost untuk mengakses running project secara lokal pada terminal atau bash tempat kalian menjalankan development.
